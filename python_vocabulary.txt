@@ -20,3 +20,127 @@
 # Integer: An object with the data type int. Its value is a decimal number.
 
 # Float: The data type of decimal number.
+
+# Floating-point number: An object with the data type float. Its value is a decimal number.
+
+# Bool: The data type of None object.
+
+# Boolean: An object with the data type bool. Its value is either True or False.
+
+# NoneType: The data type of None objects.
+
+# None: An object with the data type NoneType. Its value is always None.
+
+
+# Constant: A value that never changes.
+
+# Variable: A name assigned a value using the assignment operator.
+
+# Assignment operator: The = sign in Python.
+
+# Increment: Increasing the value of a variable.
+
+# Decrement: Decreasing the value of a variable.
+
+# Syntax: The set of rules, principles, and processes that govern the structure of sentences in 
+  a given lanuage, specifically word order.
+
+# Syntax error: A fatal programming error caused by violating a programming lanuage's syntax.
+
+# Exception: A nonfatal programming error.
+
+# Operator: Symbols used with operands in an expression.
+
+# Arithmetic operator: A category of operators used in arithmetic expressions.
+
+# Operand: A value on either side of an operator.
+
+# Expression: Code with an operator surronded by two operands.
+
+# Order of operations: A set of rules used in mathematical calculations to evaluate an expression.
+
+# Comparison operator: A category of operators used in an expression that evaluates to either 
+  True or False
+
+# Logical operator: A category of operators that evaluates two expressions and return either True
+  or False
+
+# Conditional statement: Code that can execute additional code conditionally.
+
+# Control structure: A block of code that makes decisions by analyzing the values of variables.
+
+# Pseudocode: A notation resembling code used to illustrate an example.
+
+# if-else statement: A way for programmers to say "if this happens do this, otherwise, do that"
+
+# if-statement: The first part of an if-else statement.
+
+# else-statement: The second part of an if-else statement.
+
+# elif-statmente: Statements that can be indefinitely added to an if-else statement to allow it to
+  make additional decisions.
+
+# Statement: A command or calculation.
+
+# Simple Statement: A statement that can be expressed in one line of code.
+
+# Compound statement: A statement that generally spans multiple lines of code.
+
+# Clause: The building blocks of compound statements. A clause is made up of two or more lines of 
+  code: a header followed by a suite(s).
+
+# Header: A line of code in a clause containing a keyword, followed by a colon and a sequence of 
+  one or more lines of indented code.
+
+# Suite: A line of code in a clause controlled by a header.
+
+# Functions: Compound statements that can take input, execute instructions, and return an output.
+  def <func name> (<parameters>):
+     <func definition>
+
+  def f(x):
+     return x * 2
+
+  def f(x, y, z):
+     return x + y + z
+
+# Convention: An agreed upon way of doing things.
+
+# Calling: Giving the function the input it needs to execute its instructions and return an output.
+  f(2)
+
+# Paramter: Data passed into a funtion.
+
+# Required parameter: A non-optional parameter.
+
+# Optional parameter: An optional parameter.
+  def func (x=2):
+     return x**x
+  
+  print(func()) >> 4 (called with x = 2)
+  print(func(4)) >> 256
+
+# Built-in functions: A function that comes with Python.
+  len("Monty") >> 5
+  str(100) >> '100'
+  int("110") >> 110
+  int(20.56) >> 20
+  float(100) >> 100.0
+  int("Prince") >> ValueError: invalid for int() with base 10: 'Prince'
+
+# Scope: Where a variable can be read or written to.
+
+# Global scope: The scope of a variable that can be read or written to from anywhere in a program.
+
+# Global variable: A varaible with a global scope.
+
+# Local scope: The scope of a variable that can only be read or written to from the function 
+  (or class) the varaible was defined within.
+
+# Exception handling: A programming concept that allows you to test for error conditions, "catch"
+  exceptions if they occur, and decide how to proceed.
+
+# Docstring: Docstrings explain what a function does, and documents what kinds of parameters it
+  takes.
+
+
