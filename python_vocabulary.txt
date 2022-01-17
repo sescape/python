@@ -1,0 +1,22 @@
+# Comment: A line (or part of a line) of code written in English with unique symbol #,
+  telling the programming language to ignore that line (or part of a line)
+
+# Keyword: A word with a special meaning in a programming language. 
+  You can see all of Python's keywords at https://www.theselftaughtprogrammer.io/keywords
+
+# Data Type: A category of data.
+
+# Object: A data value in Python with three properties: an identity, a data type, and a value.
+
+# Str: The data type of a string.
+
+# String: An object with the data type str. Its value is a sequence of one or more characters
+  surrounded by  quotes.
+
+# Character: A single symbol like a or 1
+
+# Int: The data type of whole numbers.
+
+# Integer: An object with the data type int. Its value is a decimal number.
+
+# Float: The data type of decimal number.
